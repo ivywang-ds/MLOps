@@ -3,7 +3,7 @@
 * [Preface](README.md)
 * [Chapter  1 : Introduction to MLOps](chapter-1-introduction-to-mlops/README.md)
   * [What is MLOps?](chapter-1-introduction-to-mlops/what-is-mlops.md)
-  * [The importance of MLOps in machine learning projects](chapter-1-introduction-to-mlops/the-importance-of-mlops-in-machine-learning-projects.md)
+  * [The importance of MLOps in ML/AI projects](chapter-1-introduction-to-mlops/the-importance-of-mlops-in-ml-ai-projects.md)
   * [The complexity of MLOps in AI/ML projects](chapter-1-introduction-to-mlops/the-complexity-of-mlops-in-ai-ml-projects.md)
 * [Chapter 2: Key Components of MLOps](chapter-2-key-components-of-mlops/README.md)
   * [Data preparation and management](chapter-2-key-components-of-mlops/data-preparation-and-management.md)
