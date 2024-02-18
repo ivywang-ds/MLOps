@@ -1,2 +1,0 @@
-# Considerations for MLOps implementations
-
